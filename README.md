@@ -1,6 +1,6 @@
 
 ## Project info
-![]
+![Alt Text](public/images/1.png)
 
 
 **Use your preferred IDE**
